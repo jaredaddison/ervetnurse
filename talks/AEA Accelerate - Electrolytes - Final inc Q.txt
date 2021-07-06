@@ -1,0 +1,641 @@
+------------------1---------------
+
+  
+  
+  
+
+  
+
+  
+
+                                                                                                                
+
+  
+
+  
+
+  
+
+ACCELERATE PROGRAM  
+
+  
+
+                                                   
+
+                                                   
+
+                                 MODULE 3  
+
+                                                   
+
+                        ELECTROLYTES  
+
+  
+
+                            
+
+------------------2---------------
+
+Objectives:  
+      •     Know the common causes and management options of frequently seen electrolyte  
+            changes   
+  
+
+                                                                   Electrolytes  
+      
+Glucose:    
+       
+Hypoglycaemia   
+  
+Insulin overdose:   
+      •     If due to insulin overdose must continue glucose supplementation with 2.5% glucose solution  
+            (or higher), until insulin wears off (ie. blood glucose starts to increase)    
+      •     Note severe  insulin overdose require higher rates of glucose supplementation and occasional  
+            boluses of dextrose   
+      •     Must  monitor  electrolytes  especially  potassium  as  this  will  shift  intracellularly  resulting  in  
+            hypokalaemia, this can occasionally require aggressive potassium supplementation greater than  
+            the recommended 0.5mEq/kg/hr   
+      •     Hypophosphatemia can occur as it is shifted intracellularly by insulin   
+      •     Glucagon CRI:   
+            •     If persistent and severe hypoglycaemia eg. Severe insulin overdose or insulinoma, consider  
+                  starting glucagon CRI – administer a 50ng/kg bolus followed by a CRI of 5-40ng/kg/min   
+              •   Glucagon promotes hepatic gluconeogenesis and glycogenolysis   
+  
+Insulinoma:   
+      •     Insulin secreting tumour in the pancreas   
+      •     Dextrose bolus and CRI   
+      •     Some sources suggest aggressive monitoring of blood glucose with glucose CRI for patients  
+            with  suspected  insulinomas,  as  excessive  hyperglycaemia  can  stimulate  insulin  release,  
+            resulting in a huge and excessive release of insulin from the tumour leading to hypoglycaemia   
+                                                                               
+Treatment:  
+      •     Give dextrose 0.5 –  1ml/kg of 50% IV diluted with saline 1:3 (to reduce vasculitis) given over  
+            5 minutes   
+      •     Offer food if able to ie. Patient is bright and there is no contraindications   
+      •     Dextrose CRI at 2.5 to 5% if require longer term glucose supplementation   
+              •   2.5% = 50ml of 50% dextrose in 950ml   
+              •   5% = 100ml of 50% dextrose in 900ml   
+                                                                               
+                                                                               
+                                                                               
+  
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+
+------------------3---------------
+
+                                                                       
+                                                                       
+                                                                       
+                                                              Sodium:   
+      
+      
+    INCREASED:                                                       DECREASED:   
+                                                                       
+    Hypernatraemia can be thought of a deficit of Hyponatraemia can be thought of as free  
+    free water. This can occur from:                                 water excess. This can occur from:   
+         -     Loss of ‘water’                                            -    Ingestion of water    
+         -     Lack of ADH                                                -    ADH release   
+         -     Gain of salt                                            
+                                                                     Again, this has nothing to do with volume  
+    Remember that sodium concentration has                           status.    
+    nothing to do with volume status. A                                   
+    hypernatraemic patient may be                                         -    Hypoadrenocorticism (± ↑ K+) (rule out  
+    hypo/eu/hypervolaemic. The volume status                                   whipworm)   
+    needs to be addressed separately.                                     -    Vomiting/diarrhoea   
+                                                                          -    Renal failure (Azotaemia)   
+    Loss of low-Na+ (hypotonic) fluid:                                    -    Over hydration – IV fluid diuresis   
+         -     Diuresis: Drugs (frusemide,                             
+               corticosteroids, mannitol), diabetes                  Water retention:   
+               mellitus (osmotic), post obstructive (low                  -    Heart failure   
+               USG)                                                       -    Effusions (pleural and abdominal fluid)   
+         -     GIT losses: Vomiting and diarrhoea                      
+               (high USG)                                            Artefact: Hyperlipidaemia, hyperproteinaemia,  
+         -     Renal failure (acute or chronic) (low                 hyperglycaemia   
+               USG)                                                     
+         -     Burn injuries and third space losses                  Clinical signs: (due to swelling of the brain):  
+               (peritonitis and pancreatitis) (high USG)  Lethargy, seizures, coma   
+    Loss of free water:                                                   -    Mild: <140 (<150 cats) mmol/L  
+         -     Diabetes insipidus (low USG)                               -     Severe (Neurological CSx):  
+         -     Panting (heat stroke, pyrexia, exercise,                        <120 mmol/L  
+               seziures)                                                  
+         -     Reduced water intake    
+         -     Increased Na+ retention:   
+         -     Primary hyperaldosteronism (Conn’s  
+               syndrome)   
+    Excessive Na+ from IV fluid or bicarbonate  
+    therapy, sodium phosphate enemas   
+         -     Ingestion of high Na+ foods/water   
+       
+    Clinical signs: (due to shrinking of brain):  
+    Weakness, lethargy, ataxia, seizures, stupor  
+    coma   
+         -     Mild: <160 mmol/L  
+         -     Severe (Neurological CSx):  
+               >170 mmol/L  
+          
+                                                                       
+      
+     
+Hypernatraemia:   
+
+------------------4---------------
+
+  -    Acute hypernatraemia  can cause cellular dehydration resulting in brain shrinkage and tearing  
+       of cerebral blood vessels (SCHAER). Chronic gradual hypernatraemia results in formation of  
+       idiogenic osmoles (form over 24-48 hour period), they increase intracellular osmolality and  
+       draw water back into cells    
+  -    Hypernatraemia is rare in an alert, conscious animal with a normal thirst mechanism and access  
+       to water.  
+  -    Onset  of  clinical  signs  of  hypernatremia  are  concerning  when  sodium  level  >170mEq/L,  
+       chronic  onset  hypernatraemia  >160mEq/L  can  result  in  the  formation  of  idiogenic  osmoles  
+       (Willard)   
+  -    Rapid  rehydration  of  a  hypernatraemic  patient  results  in  rapid  reduction  in  serum  sodium,  
+       leading to water being drawn into the cells causing cellular swelling ie. Cerebral oedema.   
+  
+  In moderate to severe hypernatraemia aim to REDUCE sodium by less than 0.5mEq/L per  
+  hour:   
+         •       Monitoring electrolytes every 4 hours   
+         •       If neurological signs occur treat with mannitol 0.5-1g/kg IV over 20 minutes OR 7%  
+         saline at 3-5ml/kg over 20 minutes   
+            
+    Types of hypernatraemia:   
+       -    Hypervolaemic hypernatraemia    
+                      •     Hypernatremia results from increased Na intake or reabsorption   
+                      •     Most likely sodium gain from IV fluids or food, also from acute renal failure,  
+                           hyperaldosteronism (Conn’s syndrome)   
+                      •     Distended jugular veins, high CVP, pulmonary oedema    
+            •    Treatment  
+                      •     Rate of correction depends of rate of increase.  If it was a rapid increase due  
+                           to salt ingestion or hypertonic saline administration, can correct rapidly.  If  
+                            chronic then correct slowly by 0.5mEq/hr   
+                      •     Correct free water deficit with 5% dextrose as per normovolaemic  
+                           hypernatraemia   
+                      •    A loop diuretic such as furosemide can be trialled 2mg/kg IV to reduce Na+  
+                           reabsorption   
+                      •     If neurological signs occur treat with mannitol 0.5-1g/kg IV over 20 minutes  
+                            OR hypertonic 7% saline at 3-5ml/kg over 20 minutes   
+  
+  
+       -    Normovolaemic hypernatraemia    
+                      •     Hypernatremia with euvolemia is a decrease in total body water with near- 
+                           normal total body Na (pure water deficit)    
+                      •     Free water loss with no signs of dehydration, usually results in very high  
+                           Na+   
+                      •     Diabetes insipidus, hypodipsia    
+            o    Treatment  
+                           Oral fluid replacement is also ideal but some of these animals will be unable  
+                           to drink   
+                           Calculate free water deficit and replace slowly over the number of hours it  
+                           takes to decrease Na+ by 0.5mEq/hr:    
+                      
+Free water deficit = (([Current Na+] / [Desired Na+]) –  1) x (0.6 x body weight)   
+                        
+Number of hours to decrease Na+ (by 0.5mEq/L/hr) = ([Current Na+] – [Desired Na+]) / 0.5   
+   
+          How many ml/hr of 5% dextrose = (ml of free water required / number of hours)   
+                                                             Or   
+               4ml/kg/hr of 5% dextrose to decreases sodium by 0.5mmol/hr (Haskins)   
+
+------------------5---------------
+
+                                                                         
+                                     Cover maintenance and any ongoing losses (eg. Diarrhoea or vomiting)  
+                                      with another isotonic crystalloid    
+                                     Monitor electrolytes every 4 hours   
+                                     If neurological signs occur treat with mannitol 0.5-1g/kg IV over 20  
+                                      minutes OR hypertonic 7% saline at 3-5ml/kg over 20 minutes   
+                                     Avoid and monitor for over hydration – can measure central venous  
+                                      pressure as a guide   
+  
+           -    Hypovolaemic hypernatraemia   
+                                           Hypernatremia  associated  with  hypovolaemia  occurs  with  Na+  loss  
+                                            accompanied by a relatively greater loss of water from the body   
+                                           Hypotonic or free water renal or gastrointestinal loss   
+                                           Signs  of  dehydration  and  hypovolaemia  ie.  Dry  and  or  pale  mucus  
+                                            membranes,   prolonged   capillary   time,   skin   tenting,   weak   pulse  
+                                            pressure and low blood pressure    
+                      o    Treatment   
+                                     Correct perfusion deficits with crystalloid solution supplemented with  
+                                      sodium to within 5 -  10mEq/L of the serum (Creedon 2015).  See  
+                                      formula below to work out how much hypertonic saline to add.   
+                                     If the hypernatraemia has developed over a 24 hour period, replace free  
+                                      water deficits slowly over a 2 – 3 day period, correct slower than 0.5mEq/L  
+                                      per hour   
+                                     Subsequent improvement in renal blood flow and function should correct  
+                                      the hypernatraemia by increased renal excretion   
+                                     Monitor electrolytes every 4 hours   
+                     
+                                     Supplement IV fluid with sodium:   
+             
+                                            •    Add additional NaCl from hypertonic saline (eg. NaCl 7%) to  
+                                                 increase Na+ content of the IV fluid   
+                                            •    Use the formula below, to find out how much hypertonic saline is  
+                                                 required:   
+                     
+ Volume (mls) to add to IV fluid bag  = ([Current IV fluid Na+]– [Desired IV fluid Na+]) x 1000   
+                                                              ([Desired IV fluid Na+] – [Hypertonic saline Na+])    
+      
+Eg. If want to increase IV fluid Na+ to 175 from 150mEq/L, and you have a 7% saline (1155mEq/L)  
+as a supplemental Na+ source:   
+                     
+Volume (mls) to be added =   (150 –  175) x 1000    = 25.5ml of 7% saline    
+                                            (175–  1155)   
+       
+                                            •    If there is no improvement in hypernatraemia after trying to  
+                                                 correct hypovolaemia then consider free water supplementation  
+                                                 with 5% dextrose as per “Normovolaemic hypernatraemia”   
+       
+                     
+                     
+Hyponatraemia:   
+           -    Rate of INCREASE should not exceed 0.5mEq/L per hour – otherwise can cause  
+                cerebral dehydration as the plasma is hypertonic to the brain and cause central pontine  
+                myelinolysis:   
+           -    Especially important until reach >130mEq/L   
+
+------------------6---------------
+
+-     Monitoring eloslectrolytes every 4 hours   
+           
+          
+  
+-     Hypovolaemic hyponatraemia due to hypotonic losses or hypoadrenocorticism   
+            o    Reduced circulating volume from fluid losses results in release of ADH, this  
+                 results in increased free water reabsorption and also increased thirst, therefore  
+                 reducing plasma sodium   
+            o    Hyponatraemia in hypoadrenocorticism is due to reduced aldosterone section, this  
+                 results in reduced sodium reabsorption combined with increased free water  
+                 ingestion/reabsorption due to ADH release.   
+            o    Clinical signs are consistent with dehydration and hypovolaemia - weakness,  
+                 depression, rapid and weak pulses, prolonged capillary refill times, cold  
+                 extremities and hypotension   
+            o    Volume resuscitation and rehydration with a fluid where the sodium  
+                 concentration is within 5 to 10mEq/L of the patient’s plasma sodium level.   
+            o    Can use a mix of 5% dextrose in water with 0.9% saline to get the required  
+                 sodium concentration in the IV fluid, use the formula below:   
+            o    Maintenance requirements can be administered with an IV fluid of a high sodium  
+                 such as 0.9% saline if sodium concentration does not increase   
+     
+ Volume (mls) to be added = ([Current IV fluid Na+] – [Desired IV fluid Na+]) x 1000   
+                                                 ([Desired IV fluid Na+] - [Supplemental IV fluid Na+])   
+   
+-     Hypervolaemic hyponatraemia due to retention of free water   
+            o    Clinical signs reflect underlying disease – oedema, ascites, pleural effusion   
+            o    Water restriction only for inappropriate ADH secretion or primary polydipsia  
+                 (BOTH RARE)   
+            o    Free water ingestion Playing with the hose   
+            o    Congestive heart failure – normal body sodium levels but excess free water   
+                            Reduced cardiac output is interpreted as reduced circulating  
+                             volume.  Renin-angiotensin activation leads to release of ADH and  
+                             aldosterone, resulting in sodium and free water reabsorption and  
+                             increased thirst.   Ultimately leading to an excess of free water.   
+            o    Advanced liver (cirrhosis) or renal failure (nephrotic syndrome)   
+                            Both can result in hypoalbuminaemia leading to shift of fluid in the  
+                             interstitial space and third spacing, the resultant reduction in effective  
+                             circulating volume leads to activation of ADH leading to free water  
+                             accumulation in an attempt to restore circulating volume.   
+            o    Treatment of hypervolaemic hyponatraemia:   
+                            Management of the underlying disease primarily, generally not with fluid  
+                             therapy   
+   
+                                                                 
+                                                                 
+                                                                 
+                                                                 
+                                                                 
+                                                                 
+                                                                 
+                                                                 
+                                                                 
+                                                                 
+                                                                 
+                                                                 
+
+------------------7---------------
+
+                                                                  
+                                                                  
+                                                                  
+                                                                  
+                                                        Potassium:   
+  
+  
+ INCREASED:                                                       DECREASED:   
+Reduced excretion:                                                Persistent loss of high-K fluid   
+           -    Obstructive/rupture uropathy                                -     Diarrhoea and vomiting    
+                (FLUTD, urolith, stricture)                       Diuresis (Frusemide, IV fluids low in K+))   
+                (azotaemia, anuria)                               Insulin therapy (shifts into cells)   
+           -    Renal failure (anuric or oliguria)                Renal failure (polyuric - ↑ excretion) –  
+                (azotaemia)                                       (Azotaemia, ↓ USG)    
+           -    Hypoadrenocorticism (↓ Na+ - can be Chronic anorexia   
+                normal) (rule out whipworm)                       Burmese polymyopathy (↑ CK due to  
+           -                                                      myopathy)   
+Redistribution (ICF to ECF):                                      Metabolic alkalosis (diuretics, vomiting, liver  
+           -    Crush injury (↑ CK)                               disease, bicarbonate therapy)   
+           -    Acidosis (↓pH) – commonly                            
+                metabolic acidosis                                   
+           -    Thrombocytosis                                    Clinical signs: Weakness, lethargy, anorexia,  
+Drugs:                                                            PU/PD, vomiting, neck ventroflexion (cats),  
+           -    ACEi, TMS, spironolactone                         crouched gait, muscle cramps   
+Artefact:                                                                   -     Mild: 3 – 3.5   
+           -    Haemolysed sample                                           -     Moderate: 2.5 – 3   
+           -    Very high WCC                                               -     Severe: <2.5   
+           -    Thrombocytosis   
+   
+Clinical signs: Weakness, collapse, flaccid  
+paralysis, arrhythmia, bradyarrhythmias   
+           -    Mild: >5.5   
+           -    Moderate: >6.5    
+           -    Severe: >9   
+  
+The severity of clinical signs is not well  
+correlated with actual K+ levels in clinical  
+patients. Be wary of cardiac manifestations in  
+any animal with K+ >6.0mmol/l and evaluate  
+further with ECG.    
+   
+Hyperkalaemia   
+       -    Effects on excitable membranes:   
+         •        Causes depolarisation of the resting membrane potential   
+         •        The resting cell membrane becomes less negative initially, this increases excitability  
+         so that a smaller stimulus is required to stimulate the cell. BUT if the RMP decrease  
+         becomes equal to or less than threshold potential depolarisation results and repolarisation  
+         cannot occur    
+         •        Reduced difference between RMP and TP   
+         •        Cardiac abnormalities maybe seen with K+ > 6.0mEq/L   
+                       •    ECG abnormalities include   
+                                 •     High peaked or deep T waves   
+                                 •     Prolonged PR intervals   
+                                 •     Disappearance of P waves   
+                                 •     Prolonged QRS complex   
+
+------------------8---------------
+
+                                  •    Heart block, bradycardia and atrial standstill   
+       •            Choice of fluid   
+                    o    Traditionally potassium free fluid but any balanced isotonic fluid can be used   
+                    o    By increasing intravascular volume will dilute serum potassium, alkalinsation  
+                         will result in an exchange for K+ (into the cell) with H+ (coming out of the cell).   
+          -    Mild to moderate elevations: 5.5 – 6.5   
+                    o    IV crystalloids – correct volume and dehydration deficits    
+          -    Moderate to severe elevations: >6.5 OR when cardiotoxic effects, metabolic acidosis   
+                    o    IV crystalloids – correct volume deficits   
+                    o    Calcium gluconate 10% - 0.5-  1.5 mL/kg slow IV over 10 minutes:   
+                         •    Calcium supplementation restores potential difference between resting and  
+                             threshold potentials by making the threshold potential less negative –  
+                             membrane excitability is restored  
+                         •   Acts within minute to protects against cardiotoxic effects by altering the  
+                             threshold potential. This enables the previously hypo-polarized cells to  
+                              depolarize again.   
+                         •   Must instigate other treatments as only protects for 20 minutes and does not  
+                              alter serum K+   
+                    o    Insulin and dextrose OR dextrose alone:   
+                         •    Insulin (regular short acting) 0.25-0.5 U/kg IV ALWAYS with    
+                                  •    2g of dextrose per unit of insulin = 4ml of 50% dextrose OR 40ml of  
+                                       5% dextrose for each unit of insulin FOLLOWED with CRI of 2.5%  
+                                       glucose at maintenance rates for 6 -8 hours   
+                         •    Insulin drives K+ back into cells but must be followed with dextrose CRI to  
+                             prevent hypoglycaemia from the insulin therapy    
+                         •   Dextrose by itself will stimulate endogenous insulin production    
+                         •   Monitor blood glucose and potassium levels   
+                    o    Bicarbonate therapy   
+                         •   For severe hyperkalaemia or metabolic acidosis (HCO <10mmol/L)   
+                                                                                               3 
+
+                                  •     1mmol/kg or 1ml/kg of 8.4% solution over 30 minutes is generally  
+                                       safe. Adverse effects of bicarbonate therapy are related to speed of  
+                                       administration so be cautious.   
+                         •   Acts within 15mins by inducing a metabolic alkalosis   
+                         •   Metabolic alkalosis results in H+ ions being drawn out of the cell in exchange  
+                              for potassium   
+                         •   Bicarbonate may negate the cardioprotective effects of intravenous calcium  
+                             by altering the pH resulting in increased binding of calcium to albumin   
+      
+Hypokalaemia:   
+          -    Potassium chloride:  1mmol = 1mEq of K+ (and 1mEq of Cl-) = 75mg    
+                    o    Run the fluids at a desired rate based on hydration etc. BUT adjust K+ so not to  
+                         administer above the max infusion rate   
+                    o    Administer slowly, aim for < 0.5mEq/kg/hr IV, rates of up to 1mEq/kg/hr IV may  
+                         be required in severe diabetic ketoacidosis patients receiving aggressive IV  
+                         insulin therapy, careful ECG monitoring is required.  Also consider using some  
+                         potassium phosphate as hypophosphatemia is a common complication in diabetic  
+                         patients ( Willard 2008)   
+                    o    Should add 10-20mmol of potassium per litre for maintenance fluid therapy   
+                        
+                  +                               Total mEq K+            Maximum infusion  
+       Serum K   
+                         Add K (mmol/L            in 1L fluid after         rate of IV fluids  
+        (mEq/L)   
+                          in 1L fluid bag)       addition of KCl-           (0.5mEq/kg/hr)   
+          <2.0                    80                      80                   6 mL/kg/hr   
+         2.1-2.5                  60                      60                   8 mL/kg/hr   
+
+------------------9---------------
+
+         2.6-3.0                   40                       40                   12 mL/kg/hr   
+         3.1-3.5                   30                       30                   18 mL/kg/hr   
+         3.6-5.0                   20                       20                   25 mL/kg/hr   
+                    
+                                                              Calcium   
+          
+      
+    INCREASED:                                              DECREASED:   
+    Neoplasia (parathyroid-like hormone) (↑                            -    Due to hypoalbuminaemia (↓ Alb)   
+    Phos, ↓ PTH)                                                       -    Alkalosis   
+              -    Lymphoma, anal gland                                -    Milk fever   
+                   adenocarcinoma                                      -    Hyperphosphataemia    
+    Primary hyperparathyroidism (neoplasia) (↓                         -    Hypoparathyroidism/parathyroidectomy   
+    Phos, ↑ PTH)                                                       -    Chronic renal failure (↓USG, ± ↑  
+    Secondary hyperparathyroidism:                                          azotaemia)   
+    Renal disease (↑ azotaemia, ↑ Phos, ↑ PTH)                         -    Acute pancreatitis (50%) (± ↑ Lipase,  
+    Hyperalbuminaemia (↑ PCV, Alb, TP):                                     amylase, vomiting)   
+      Dehydration / haemoconcentration                                 -    Phosphate retention enema   
+    Bone disease (↑ Phos, ± ↑ ALP):                                    -    Oxalate poisoning   
+    Multiple myeloma, leukemia (± lytic bone                           -    Ethylene glycol (Ca+ oxalate  
+    lesions)                                                                crystalluria, ↑ azotaemia, ± ↑ K+)   
+    Hypoadrenocorticism (± ↑ K, ↓ Na+, ± ↓                             -    Diet   
+    BG)                                                                -    Vitamin D deficiency   
+    Vitamin D toxicity (↑ Phos, ± azotaemia):                     
+    Rodenticides (old types) (coagulopathy)                 Clinical signs: Muscle tremors, fasciculation,  
+    Idiopathic (feline) – common cause                      seizures, ↑ temperature   
+         
+    Clinical signs: Weakness, PU/PD (toxic  
+    effect on kidneys and ↓ sensitivity to ADH),  
+    vomiting, diarrhoea, constipation,  
+    twitiching, seizures   
+       
+    Ionised Calcium: iCa+   
+    Biologically active component (~50% of total serum calcium)   
+              -    Hypoalbuminaemia → hypocalcaemia but no clinical signs if ionised calcium remains  
+                   normal   
+    INCREASED:                                              DECREASED:   
+              -    Acidosis (decreases Ca+                             -    Alkalosis (increases Ca+ binding with  
+                   binding with albumin)                                    albumin)   
+              -    Hypercalcaemia (see above)                          -    Severe hypocalcaemia (see above)   
+      
+    Can use formula to adjust for  
+    hypoalbuminaemia  but direct measurement  
+    is more accurate   
+          
+Hypocalcaemia:   
+          -    Acute therapy:   
+                     o    If concurrent seizures/tetany – use IV calcium therapy in conjunction with  
+                          diazepam IV   
+                     o    Calcium gluconate 10% - 0.5 –  1ml/kg given slow IV over 15 minutes, slowly to  
+                          effect monitoring heart rate and ECG   
+                     o    Can continue as a CRI eg. 0.25ml/kg/hr of Calcium gluconate 10% maintenance  
+                          infusion   
+                     o    Calcium gluconate should not be given subcutaneously due to risks of calcinosis  
+                          cutis   
+
+------------------10---------------
+
+                    o    If due to eclampsia, after stabilising the calcium, the puppies should be weaned,  
+                         commence oral calcium therapy and warn of mastitis   
+      
+Hypercalcaemia:   
+          -    Treatment of underlying disease    
+          -    Acute therapy:   
+                    o    Fluid therapy (0.9% saline), correction of volume and dehydration deficits to  
+                         enhance urinary excretion   
+                    o    ± Diuretics:  Eg. Frusemide 1-2mg/kg IV, SC, PO BID   
+                    o    Must ensure fully hydrated before commencing   
+                    o    Match urine output with fluid input and if possible and can tolerate it have water  
+                         available   
+                    o    ± Corticosteroids:   
+                    o    Only if a definitive diagnosis has been made and they are indicated   
+          -    If life threatening:   
+                    o    Chelating agents eg. Sodium or potassium phosphate (0.02mmol) at 0.25- 
+                         0.5mmol/kg IV over 4 hours   
+                    o    Sodium bicarbonate 1mEq/kg or 1ml/kg of 8.4% solution slowly over 20  
+                         minutes:   
+                                  Decreases both ionized and total calcium   
+                                  Must monitor acid-base balance   
+                                  Best if concurrent metabolic acidosis   
+      
+                                                          Phosphate   
+      
+Hypophosphataemia:    
+                    o    Treatment should be considered if <0.65nmol/L, initiated if <0.30nmol/L   
+                    o    Sodium or potassium phosphate (0.02mmol) at 0.01 – 0.05mmol/kg/hr ± until  
+                         phosphate levels normalise   
+                    o    Do not supplement if there is a concurrent hypercalcaemia or if anuric or oliguria   
+                    o    Amount:   
+                                  Phosphate supplementation = 0.01 - 0.05 mmol/kg/hr   
+                                  Add into IV calcium free fluids   
+                    o    Alternatively, determine the amount of potassium supplementation needed, give  
+                         half the amount as KCI and the other half as KPO4 (potassium phosphate)   
+                    o    Treatment:   
+                                  Administer in calcium free fluids and avoid if patient is hypercalcaemic   
+                                  Discontinue when serum phosphorus = 0.9 mmol/L   
+                    o    Monitor phosphate levels every 6 hours   
+      
+      
+                   References:   
+       •            Mazzaferro EM., Powell LL. Fluid Therapy for the Emergency Small Animal Patient  
+       Vet Clin Small Anim 2013, 43:721-734   
+       •            Creedon JMB, Davis H. (2012)  Advanced Monitoring and Procedures for Small  
+       Animal Emergency and Critical Care . Wiley-Blackwell. US   
+       •            Mazzaferro EM. Complications of Fluid Therapy Vet Clin Small Anim 2008, 38:607- 
+       619   
+       •            Schaer M. Therapeutic Approach to Electrolyte Emergencies Vet Clin Small Anim  
+       2008, 38:518-533   
+       •            Creedon JMB (2015) Chapter 50 – Sodium Disorders in Small Animal Critical Care  
+       Medicine, 2nd Edition Edited by Silverstein D, Hopper K.  Saunders/Elsevier, St Louis, M.  
+       Edinburgh   
+       •            Willard M. Theraputic approach to chronic electrolyte disorders Vet Clin Small  
+       Anim 2008, 38:535-541   
+
+------------------11---------------
+
+                                                                
+
+  
+
+                                         AES Accelerate – Electrolytes Questions  
+  
+  
+1)   Digby presented with 2 day history of vomiting and inappetence, and recent seizure activity. On  
+       presentation he had a positive skin tent, injected mucous membranes and slow CRT. He was  
+       hypothermic (temp 36.6) had altered mentation and seizure again shortly after arrival.   
+
+                                                                            
+                                                                          a)  Interpret the blood gas and outline your major  
+                                                                          concerns.  
+                                                                            
+                                                                          b)  Assess the dog’s volume status   
+                                                                            
+                                                                          c)  What is the likely cause of seizures   
+                                                                            
+                                                                          d)  What is the pathophysiology of the hyponatraemia   
+                                                                            
+                                                                          e)  What kind of hyponatraemia is present   
+                                                                            
+
+                                                                          f)   Make a plan for treating hypoperfusion, dehydration  
+                                                                          and maintenance   
+                                                                            
+                                                                            
+                                                                            
+                                                                            
+                                                                            
+                                                                            
+                                                                            
+                                                                            
+                                                                            
+                                                                            
+                                                                            
+                                                                            
+                                                                            
+2)   A blocked cat arrives at your clinic – it is obtunded and has a heart rate of 60bpm. A blood gas is  
+       performed and it is discovered that the cat has a serum potassium of 7mmol/L   
+
+               
+
+                                                                                                                                        
+             50mm/sec  
+  
+       a)    You perform an ECG as shown, what is your interpretation and describe the abnormalities?  
+
+------------------12---------------
+
+      b)   What treatment would you instigate?  
+      c)    How does hyperkalaemia cause cardiac electrical disturbance?  
+      d)   How does giving calcium effect the action potential?  
+3)   A 4 year old fox terrier 3 weeks post partum arrives with severe muscle tremors, panting.  How  
+      does hypocalcaemia affect cardiac electrical conduction  
+
+      a)    How would you treat?  
+              
+              
+4)   What are the important factors to remember when managing  
+
+      a)    Hypokalaemia   
+      b)   Hypernatraemia  
+              
+5)   What would you consider as indicators for not using fluid therapy to manage a patient with a  
+      hyponatramia?  
+                               
+6)   What is the action of the following hormones in the kidney:  
+            a.    Aldosterone  
+            b.    Vasopressin   
+            c.    Antidiuretic Hormone  
+                    
+7)   Bring a case from your hospital with an electrolyte abnormalities for discussion in the tutorial.  
+
+  
+
+  
+
+  
